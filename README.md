@@ -1,4 +1,15 @@
-# Stable Diffusion web UI
+# UNSTABLE WIP - DO NOT USE
+This isn't an "experimental" build of AUTOMATIC1111's Stable Diffusion WebUI in Docker. It's me going way off the rails
+with Stable Diffusion, leveraging the work already done by the community for that repo, but ultimately replacing much of
+that with custom endpoints and services for my own purposes.
+
+Use AUTOMATIC1111/stable-diffusion-webui instead.
+
+While technically available publicly, it's not really intended for public consumption at this time, I won't be providing
+documentation on what I'm doing, and I won't be able to provide support if you try to use it and it's not working for you.
+It's not supposed to work for you!
+
+# Stable Diffusion Endpoint for Docker
 A browser interface based on Gradio library for Stable Diffusion.
 
 ![](screenshot.png)
